@@ -1,9 +1,12 @@
 # Deep Learning Example Programs
-Nguyen Hai Duong  
-Huynh Van Thong (update some part)  
-Professor Kim Soo Hyung  
-Chonnam National University  
-    
+---
+```
+> Nguyen Hai Duong  
+> Huynh Van Thong <hvthong.298@gmail.com> (update some part)  
+> Professor Kim Soo Hyung  
+> Chonnam National University  
+```
+---    
 ## Environment
 0. Windows x64
 1. Python 3.5 or later
