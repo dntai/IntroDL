@@ -1,6 +1,8 @@
 # Deep Learning Example Programs
 Nguyen Hai Duong
+
 Huynh Van Thong (update)
+
 Professor Kim Soo Hyung  
 Chonnam National University  
     
