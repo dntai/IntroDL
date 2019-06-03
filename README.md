@@ -43,4 +43,6 @@ A **_free of charge_** way to experience training deep models with high-performa
 4. `Jupyter IDE` will be opened in a web browser, open one of the downloaded programs
 5. Select menu `Cell` > `Run All` to run the program
 
-## Credit [https://github.com/nhduong/intro_deep](https://github.com/nhduong/intro_deep)
+## Credit
+
+[https://github.com/nhduong/intro_deep](https://github.com/nhduong/intro_deep)
