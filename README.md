@@ -2,7 +2,7 @@
 ---
 ```
 > Nguyen Hai Duong  
-> Huynh Van Thong <hvthong.298@gmail.com> (update some part)  
+> Huynh Van Thong hvthong.298@gmail.com (update some part)  
 > Professor Kim Soo Hyung  
 > Chonnam National University  
 ```
